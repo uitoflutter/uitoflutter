@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" height="50% alt="image">
+
 
 ### Hi there 👋 :blue_heart:
 
+<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" height="50% alt="image">
+                                                                                                                          
 - 🔭 I’m currently working on **Flutter projects** :smiley:
 - 🌱 I’m currently learning **Flutter** :sunglasses:
 - 👯 I’m looking to collaborate on **Flutter Projects**
