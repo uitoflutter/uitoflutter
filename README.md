@@ -8,5 +8,5 @@
 - 📫 How to reach me: :arrow_forward: **uitoflutter@gmail.com** :email: :arrow_backward: [instagram](https://www.instagram.com/uitoflutter/?hl=en)
 - ⚡ Fun fact: 🤔 
 
-<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.png" width="500" alt="image">
+<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="500" alt="image">
 
