@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" height="50% alt="image">
+
 ### Hi there 👋 :blue_heart:
 
 - 🔭 I’m currently working on **Flutter projects** :smiley:
@@ -8,5 +10,4 @@
 - 📫 How to reach me: :arrow_forward: **uitoflutter@gmail.com** :email: :arrow_backward: [instagram](https://www.instagram.com/uitoflutter/?hl=en)
 - ⚡ Fun fact: 🤔 
 
-<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" alt="image">
 
