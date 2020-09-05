@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" height="30%"  alt="image">
+<img src="https://raw.githubusercontent.com/uitoflutter/uitoflutter/master/logo.jpeg" width="100%" alt="image">
 
 ### Hi there 👋 :blue_heart:                                                                                                                      
 - 🔭 I’m currently working on **Flutter projects** :smiley:
